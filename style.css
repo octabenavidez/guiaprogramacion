@@ -14,10 +14,15 @@ body{
 }
 
 .card-title{
-    color: #FEC260;
+    color: #FBCB0A;
     text-transform: uppercase;
 }
 
 .card img{
     height: 136px;
+}
+
+.btn-lg{
+    background-color: #37E2D5;
+    color: #354259;
 }
